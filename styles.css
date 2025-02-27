@@ -147,7 +147,7 @@ h6 { font-size: clamp(0.8rem, 0.8vw + 0.2rem, 1rem); }
 } */
 
 /* Theme: Fjord Sunrise */
-:root {
+/* :root {
   --color-bg: #FFF5E6;
   --color-text: #34495E;
   --color-primary: #FF7F50;
@@ -167,7 +167,7 @@ h6 { font-size: clamp(0.8rem, 0.8vw + 0.2rem, 1rem); }
   --color-link: #FFB74D;
   --color-link-hover: #FFA726;
   --color-table-text: #FFF5E6;
-}
+} */
 
 /* Theme: Tundra */
 /* :root {
@@ -193,7 +193,7 @@ h6 { font-size: clamp(0.8rem, 0.8vw + 0.2rem, 1rem); }
 } */
 
 /* Theme: "Lavender Fields" */
-/* :root {
+:root {
   --color-bg: #F5F0FF;
   --color-text: #2D2D44;
   --color-primary: #9370DB;
@@ -213,7 +213,7 @@ h6 { font-size: clamp(0.8rem, 0.8vw + 0.2rem, 1rem); }
   --color-link: #E6E6FA;
   --color-link-hover: #D8BFD8;
   --color-table-text: #F5F0FF;
-} */
+}
 
 /* Theme: "Meadow" */
 /* :root{
